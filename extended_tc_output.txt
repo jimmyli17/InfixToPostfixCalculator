@@ -1,0 +1,15 @@
+61.00
+61.00
+217.00
+-966.00
+ERROR - Input Invalid: Division by zero.
+ERROR - Input Invalid: 'a' is not defined in this context and/or is not an operator handled by this program.
+ERROR - Input Invalid: '#' is not defined in this context and/or is not an operator handled by this program.
+ERROR - Input Invalid: '@' is not defined in this context and/or is not an operator handled by this program.
+ERROR - Input Invalid: '7.0' and '6.0' cannot be evaluated by logical '&'. Operands must be '1.0' or '0.0'.
+ERROR - Input Invalid: '80.0' and '20.0' cannot be evaluated by logical '|'. Operands must be '1.0' or '0.0'.
+ERROR - Input Invalid: '2.0' cannot be evaluated by logical '!'. Operand must be '1.0' or '0.0'.
+2.00
+25.00
+1.00
+0.00
